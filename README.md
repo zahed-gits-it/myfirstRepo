@@ -15,5 +15,7 @@ This is my very first GitHub project! It's written in Python and helps me learn 
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/my-first-project.git
+git clone https://github.com/zahed-gits-it/my-first-project.git
 cd my-first-project
+pip install -r requirements.txt
+python src/main.py
